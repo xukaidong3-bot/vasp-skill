@@ -1,0 +1,8 @@
+POTCAR
+POTCAR.*
+WAVECAR
+CHGCAR
+CHG
+vaspout.h5
+*.local.md
+.DS_Store
