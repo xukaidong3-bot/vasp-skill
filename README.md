@@ -2,6 +2,8 @@
 
 这是一个给 AI agent 使用的 VASP 参数决策、标准流程与排障 skill。`SKILL.md` 是决策层和路由索引；`references/` 保存按专题按需加载的细节，帮助 agent 选择参数、组织计算并验收结果。
 
+维护者：`xukaidong3-bot`。
+
 ## 目录结构
 
 - `SKILL.md`：skill 元数据、路由表、通用骨架与硬约束。
